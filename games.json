@@ -462,5 +462,33 @@
   {
     "title": "Mario Kart 8 Deluxe",
     "img": "mk8d"
+  },
+  {
+    "title": "Super Mario 3D All-Stars",
+    "img": "sm3das"
+  },
+  {
+    "title": "Super Mario Galaxy",
+    "img": "smg"
+  },
+  {
+    "title": "Super Mario Galaxy 2",
+    "img": "smg2"
+  },
+  {
+    "title": "Game Chat",
+    "img": "gamechat"
+  },
+  {
+    "title": "Super Mario Kart World",
+    "img": "smkw"
+  },
+  {
+    "title": "Mario + Rabbids Kingdom Battle",
+    "img": "mrkb"
+  },
+  {
+    "title": "Donkey Kong Banonai",
+    "img": "dkb"
   }
 ]
